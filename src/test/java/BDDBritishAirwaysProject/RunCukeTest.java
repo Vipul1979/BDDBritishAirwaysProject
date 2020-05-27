@@ -8,4 +8,4 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/Resources/Homepage.feature",tags = {"@smoke"})
 public class RunCukeTest {
-}git s
+}
